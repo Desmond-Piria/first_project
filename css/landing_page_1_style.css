@@ -494,6 +494,9 @@ div h2 {
 .main_block8 {
 	display: flex;
 	justify-content: flex-start;
+	width: 100%;
+	height: auto;
+	padding-top: 50px;
 }
 .main_block8_block1 {
 	width: 374px;
